@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src = "https://static.vecteezy.com/system/resources/thumbnails/033/662/051/small_2x/cartoon-lofi-young-manga-style-girl-while-listening-to-music-in-the-rain-ai-generative-photo.jpg" width="10%">
 <!--
 **shobviznali/shobviznali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
